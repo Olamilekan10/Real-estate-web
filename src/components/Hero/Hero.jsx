@@ -7,8 +7,10 @@ const Hero = () => {
         <div className="paddings innerWidth flexCenter hero-container">
 
             {/* left side */}
-            <div className="hero-left">Left section</div>
-            
+            <div className="hero-left">
+                
+            </div>
+
             {/* right side */}
             <div className="flexCenter hero-right">
                 <div className="image-container">
