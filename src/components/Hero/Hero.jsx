@@ -6,10 +6,10 @@ const Hero = () => {
     <section className="hero-wrapper">
         <div className="paddings innerWidth flexCenter hero-container">
 
-            <div className="hero-left">
-                Left section
-            </div>
-
+            {/* left side */}
+            <div className="hero-left">Left section</div>
+            
+            {/* right side */}
             <div className="flexCenter hero-right">
                 <div className="image-container">
                     <img src="./hero-image.png" alt="" />
