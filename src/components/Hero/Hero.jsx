@@ -8,7 +8,12 @@ const Hero = () => {
 
             {/* left side */}
             <div className="hero-left">
-                
+
+                <div className="hero-title">
+                    <h1>
+                        Discover Most Suitable Property
+                    </h1>
+                </div>
             </div>
 
             {/* right side */}
