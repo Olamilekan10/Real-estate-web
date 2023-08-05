@@ -10,6 +10,7 @@ const Hero = () => {
             <div className="flexColStart hero-left">
 
                 <div className="hero-title">
+                    <div className="orange-circle"/>
                     <h1>Discover <br /> Most Suitable <br /> Property</h1>
                 </div>
 
@@ -19,7 +20,7 @@ const Hero = () => {
                 </div>
 
                 <div className="search-bar">
-                    search bar
+                    <HiLocationMarker color="var(--blue)" size={25} />
                 </div>
 
             </div>
