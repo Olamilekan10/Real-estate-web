@@ -12,6 +12,10 @@ const Hero = () => {
                 <div className="hero-title">
                     <h1>Discover <br /> Most Suitable <br /> Property</h1>
                 </div>
+
+                <div className="hero-des">
+                    
+                </div>
             </div>
 
             {/* right side */}
