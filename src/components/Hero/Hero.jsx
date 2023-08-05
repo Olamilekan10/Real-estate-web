@@ -13,7 +13,7 @@ const Hero = () => {
                     <h1>Discover <br /> Most Suitable <br /> Property</h1>
                 </div>
 
-                <div className="hero-des">
+                <div className="flexColStart hero-des">
                     <span>Find a variety of property that suits you very easily</span>
                     <span>Forgeet all difficulties in finding a residence for you</span>
                 </div>
