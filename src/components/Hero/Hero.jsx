@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="paddings innerWidth flexCenter hero-container">
 
             {/* left side */}
-            <div className="hero-left">
+            <div className="flexColStart hero-left">
 
                 <div className="hero-title">
                     <h1>Discover <br /> Most Suitable <br /> Property</h1>
