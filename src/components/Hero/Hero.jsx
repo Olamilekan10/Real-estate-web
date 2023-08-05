@@ -14,8 +14,14 @@ const Hero = () => {
                 </div>
 
                 <div className="hero-des">
-                    
+                    <span>Find a variety of property that suits you very easily</span>
+                    <span>Forgeet all difficulties in finding a residence for you</span>
                 </div>
+
+                <div className="search-bar">
+                    search bar
+                </div>
+
             </div>
 
             {/* right side */}
