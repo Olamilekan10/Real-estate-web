@@ -4,7 +4,7 @@ function App() {
   return (
    <div className="App">
       <div>
-        <div className="white-gradient" /></div>
+        <div className="white-gradient" />
         <Header />
         <Hero />
       </div>
