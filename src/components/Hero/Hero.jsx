@@ -51,7 +51,7 @@ const Hero = () => {
                             <CountUp end={28} />
                             <span>+</span> 
                         </span>
-                        <span  className="secondaryText">Awards winning</span>
+                        <span className="secondaryText">Awards winning</span>
                        
                     </div>
 
