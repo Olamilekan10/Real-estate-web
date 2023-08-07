@@ -7,7 +7,7 @@ import data from '../../utils/slider.json';
 const Residencies = () => {
   return (
     <section className="r-wrapper">
-        
+        residencies
     </section>
   )
 }
