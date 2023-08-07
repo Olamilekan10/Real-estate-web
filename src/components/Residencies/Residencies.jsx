@@ -6,7 +6,9 @@ import data from '../../utils/slider.json';
 
 const Residencies = () => {
   return (
-    <div>Residencies</div>
+    <section className="r-wrapper">
+        
+    </section>
   )
 }
 
