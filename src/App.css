@@ -6,3 +6,7 @@
     background: var(--black);
     position: relative;
 }
+.white-gradient {
+    position: absolute;
+    
+}
