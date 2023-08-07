@@ -8,5 +8,7 @@
 }
 .white-gradient {
     position: absolute;
-    
+    width: 20rem;
+    height: 20rem;
+    background: rgb(255, 255, 255, 0.55);
 }
