@@ -10,7 +10,7 @@ const Residencies = () => {
         <div className="paddings innerWidth r-container">
             <div className="r-head flexColStart">
                 <span>Best Choices</span>
-                <span>Popular Residencies</span>
+                {/* <span>Popular Residencies</span> */}
             </div>
         </div>
     </section>
