@@ -12,6 +12,10 @@ const Residencies = () => {
                 <span className="orangeText">Best Choices</span>
                 <span className="primaryText">Popular Residencies</span>
             </div>
+
+            <Swiper>
+                
+            </Swiper>
         </div>
     </section>
   )
