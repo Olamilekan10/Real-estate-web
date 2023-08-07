@@ -16,8 +16,14 @@ const Residencies = () => {
             <Swiper>
                 {
                     data.map((card, i)=> (
-                        <SwiperSlide>
-                            
+                        <SwiperSlide key={i}>
+                            <div className="r-card">
+                                <img src={card.image} alt="home" />
+
+                                <span className="secondaryText r-price">
+                                    <span>$</span><span>{card.price}</span>
+                                </span>
+                            </div>
                         </SwiperSlide>
                     ))
                 }
