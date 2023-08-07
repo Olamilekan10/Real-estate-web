@@ -14,7 +14,13 @@ const Residencies = () => {
             </div>
 
             <Swiper>
-                
+                {
+                    data.map((card, i)=> (
+                        <SwiperSlide>
+                            
+                        </SwiperSlide>
+                    ))
+                }
             </Swiper>
         </div>
     </section>
