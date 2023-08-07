@@ -47,10 +47,10 @@
 }
 .stats {
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .stat>:nth-child(1) {
-    font-style: 2rem;
+    font-size: 2rem;
 }
 .stat>:nth-child(1)>:last-child {
     color: orange;
