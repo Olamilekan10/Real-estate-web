@@ -16,6 +16,7 @@ const Residencies = () => {
             </div>
 
             <Swiper {...sliderSettings}>
+                <sliderButton />
                 {
                     data.map((card, i)=> (
                         <SwiperSlide key={i}>
@@ -40,3 +41,8 @@ const Residencies = () => {
 }
 
 export default Residencies;
+
+
+const SwiperSlider = () => {
+    
+}
