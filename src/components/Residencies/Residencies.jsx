@@ -21,8 +21,12 @@ const Residencies = () => {
                                 <img src={card.image} alt="home" />
 
                                 <span className="secondaryText r-price">
-                                    <span>$</span><span>{card.price}</span>
+                                    <span style={{color: "orange"}}>$</span>
+                                    <span>{card.price}</span>
                                 </span>
+
+                                <span className="primaryText">{card.name}</span>
+                                <span className="secondaryText">{card.detail}</span>
                             </div>
                         </SwiperSlide>
                     ))
