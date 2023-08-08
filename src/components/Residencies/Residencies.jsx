@@ -44,9 +44,10 @@ export default Residencies;
 
 
 const SliderButtons = () => {
+    const swiper = useSwiper();
     return (
         <div className="r-button">
-            
+            Buttons
         </div>
     )
 }
