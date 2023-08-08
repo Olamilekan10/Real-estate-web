@@ -43,6 +43,10 @@ const Residencies = () => {
 export default Residencies;
 
 
-const SwiperSlider = () => {
-    
+const SliderButtons = () => {
+    return (
+        <div className="r-button">
+            
+        </div>
+    )
 }
