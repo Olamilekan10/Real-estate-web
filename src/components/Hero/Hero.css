@@ -35,7 +35,7 @@
 .search-bar {
     background-color: #fff;
     border-radius: 5px;
-    border: 3px solid rgb(120, 120, 120, 0.374);
+    border: 3px solid rgba(120, 120, 120, 0.374);
     padding: 0.5rem 1rem;
     justify-content: space-between;
     width: 100%;
@@ -63,7 +63,7 @@
     height: 35rem;
     overflow: hidden;
     border-radius: 15rem 15rem 0 0;
-    border: 8px solid rgb(255, 255, 255, 0.12);
+    border: 8px solid rgba(255, 255, 255, 0.12);
 }
 .image-container>img {
     width: 100%;
