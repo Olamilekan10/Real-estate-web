@@ -1,3 +1,3 @@
 export const sliderSettings = {
-    // SlidesPerView : 1
+    SlidesPerView : 1
 }
