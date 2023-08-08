@@ -28,4 +28,8 @@
 .r-card:hover {
     scale: 1.025;
     cursor: pointer;
+    background: linear-gradient(
+        180deg,
+        
+    );
 }
