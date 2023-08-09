@@ -31,6 +31,11 @@ const Value = () => {
                     <br />
                     We believe a good blace to live can make your live better
                 </span>
+
+
+                <Accordion>
+                    
+                </Accordion>
             </div>
         </div>
     </section>

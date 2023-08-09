@@ -4,3 +4,6 @@
 .v-container>div {
     flex: 1;
 }
+.v-right {
+    gap: 0.5rem;
+}
