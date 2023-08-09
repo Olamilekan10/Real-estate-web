@@ -17,7 +17,9 @@ const Value = () => {
         <div className="paddings innerWidth flexCenter v-container">
             {/* left side */}
             <div className="v-left">
-                
+                <div className="image-container">
+                    
+                </div>
             </div>
         </div>
     </section>
