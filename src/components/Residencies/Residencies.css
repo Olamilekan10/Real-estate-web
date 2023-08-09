@@ -44,4 +44,5 @@
 }
 .r-button {
     position: absolute;
+    gap: 1rem;
 }
