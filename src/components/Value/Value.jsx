@@ -13,7 +13,9 @@ import './Value.css';
 
 const Value = () => {
   return (
-    <div>Value</div>
+    <section className="v-wrapper">
+        
+    </section>
   )
 }
 
