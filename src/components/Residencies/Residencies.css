@@ -42,7 +42,7 @@
 .swiper-horizontal {
     overflow: visible;
 }
-.r-button {
+.r-buttons {
     position: absolute;
     gap: 1rem;
     top: -4rem;
