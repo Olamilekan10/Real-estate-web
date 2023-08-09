@@ -23,7 +23,9 @@ const Value = () => {
             </div>
 
             {/* right side */}
-            
+            <div className="flexColStart v-right">
+                
+            </div>
         </div>
     </section>
   )
