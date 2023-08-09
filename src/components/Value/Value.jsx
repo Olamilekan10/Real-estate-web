@@ -21,6 +21,9 @@ const Value = () => {
                     <img src="./value.png" alt="" />
                 </div>
             </div>
+
+            {/* right side */}
+            
         </div>
     </section>
   )
