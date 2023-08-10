@@ -46,6 +46,9 @@ const Value = () => {
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
                                             <div className="flexCenter icon">{item.icon}</div>
+                                            <span className="primaryText">
+                                                {item.heading}
+                                            </span>
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                 </AccordionItem >
