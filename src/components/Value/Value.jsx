@@ -41,9 +41,11 @@ const Value = () => {
                 >
                     {
                         data.map((item, i) => {
-                            return {
-                                <AccordionItem
-                            }
+                            return (
+                                <AccordionItem> 
+                                    
+                                </AccordionItem >
+                            )
                         })
                     }
                 </Accordion>
