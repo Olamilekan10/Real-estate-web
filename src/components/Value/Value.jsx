@@ -42,7 +42,7 @@ const Value = () => {
                     {
                         data.map((item, i) => {
                             return (
-                                <AccordionItem className="accordionItem" key={i}> 
+                                <AccordionItem className="accordionItem" > 
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
                                             <div className="flexCenter icon">{item.icon}</div>
