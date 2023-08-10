@@ -10,6 +10,7 @@ import {
 import "react-accessible-accordion/dist/fancy-example.css";
 import {MdOutlineArrowDropDown} from 'react-icons/md'
 import './Value.css';
+import data from '../../utils/accordion';
 
 const Value = () => {
   return (
@@ -39,7 +40,7 @@ const Value = () => {
                 preExpanded={[0]}
                 >
                     {
-                        
+
                     }
                 </Accordion>
             </div>
