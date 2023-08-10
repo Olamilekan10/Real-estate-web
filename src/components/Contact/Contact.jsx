@@ -14,6 +14,15 @@ const Contact = () => {
                     <br />
                     We believe a good blace to live can make your live better
                 </span>
+
+
+                <div className="flexColStart contactModes">
+                    {/* first row */}
+                    <div className="flexColStart row">
+                        <div className="flexColCenter mode"></div>
+                    </div>
+                </div>
+
             </div>
 
             {/* right side */}
