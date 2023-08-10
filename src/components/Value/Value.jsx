@@ -42,7 +42,7 @@ const Value = () => {
                     {
                         data.map((item, i) => {
                             return (
-                                <AccordionItem> 
+                                <AccordionItem className="accordionItem"> 
                                     
                                 </AccordionItem >
                             )
