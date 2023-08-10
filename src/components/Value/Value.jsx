@@ -54,6 +54,10 @@ const Value = () => {
                                             </div>
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
+
+                                    <AccordionItemPanel>
+                                        <p className="secondaryText">{item.detail}</p>
+                                    </AccordionItemPanel>
                                 </AccordionItem >
                             )
                         })
