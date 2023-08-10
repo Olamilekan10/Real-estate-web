@@ -51,7 +51,7 @@ const Value = () => {
                                             {({expanded}) => 
                                                 expanded 
                                                 ? setClassName("expanded") 
-                                                : setClassName("collapsed")
+                                                // : setClassName("collapsed")
                                             }
                                         </AccordionItemState>
 
