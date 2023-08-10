@@ -46,6 +46,7 @@
     box-shadow: var(--shadow);
 }
 .mode .button:hover {
-    background: var(--blue);
+    background: var(--blue-gradient);
     color: #eeeeff;
+    scale: 0.8;
 }
