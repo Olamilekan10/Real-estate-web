@@ -33,8 +33,14 @@ const Value = () => {
                 </span>
 
 
-                <Accordion>
-                    
+                <Accordion 
+                className="accordion"
+                allowMultipleExpanded={false}
+                preExpanded={[0]}
+                >
+                    {
+                        
+                    }
                 </Accordion>
             </div>
         </div>
