@@ -26,10 +26,11 @@ const Contact = () => {
                                     <MdCall size={25} />
                                 </div>
                                 <div className="flexColStart detail">
-                                    <span></span>
-                                    <span></span>
+                                    <span>Call</span>
+                                    <span>012 345 678 910</span>
                                 </div>
                             </div>
+                            <div className="flexCenter button">Call Now</div>
                         </div>
                     </div>
                 </div>
