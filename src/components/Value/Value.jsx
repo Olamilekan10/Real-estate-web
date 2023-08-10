@@ -40,7 +40,11 @@ const Value = () => {
                 preExpanded={[0]}
                 >
                     {
-
+                        data.map((item, i) => {
+                            return {
+                                <AccordionItem
+                            }
+                        })
                     }
                 </Accordion>
             </div>
