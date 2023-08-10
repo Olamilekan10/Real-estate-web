@@ -11,8 +11,10 @@ const Contact = () => {
             </div>
 
             {/* right side */}
-            <div className="c-rigt">
-
+            <div className="c-right">
+                <div className="image-container">
+                    <img src="" alt="" />
+                </div>
             </div>
         </div>
     </section>
