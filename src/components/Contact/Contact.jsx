@@ -25,6 +25,10 @@ const Contact = () => {
                                 <div className="flexCenter icon">
                                     <MdCall size={25} />
                                 </div>
+                                <div className="flexColStart detail">
+                                    <span></span>
+                                    <span></span>
+                                </div>
                             </div>
                         </div>
                     </div>
