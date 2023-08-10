@@ -6,8 +6,14 @@ const Contact = () => {
     <section className="c-wrapper">
         <div className="paddings innerWidth flexCenter c-container">
             {/* left side */}
-            <div className="c-left">
-                left
+            <div className="flexColStart c-left">
+                <span className="orangeText">Our Contacts</span>
+                <span className="primaryText">Easy to Contact us</span>
+                <span className="secondaryText">
+                    We are always ready to help you by providing the best service to you
+                    <br />
+                    We believe a good blace to live can make your live better
+                </span>
             </div>
 
             {/* right side */}
