@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import './GetStarted.css';
 
 const GetStarted = () => {
   return (
-    <div>GetStarted</div>
+    <section className="g-wrapper">
+        
+    </section>
   )
 }
 
