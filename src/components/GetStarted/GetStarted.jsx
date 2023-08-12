@@ -13,7 +13,7 @@ const GetStarted = () => {
                     Find your residence soon
                 </span>
                 <button className="button">
-                    <a href=""></a>
+                    <a href="mailto:issaabubakry@gmail.com"></a>
                 </button>
             </div>
         </div>
