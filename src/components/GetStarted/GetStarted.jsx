@@ -12,6 +12,9 @@ const GetStarted = () => {
                     <br />
                     Find your residence soon
                 </span>
+                <button className="button">
+                    <a href=""></a>
+                </button>
             </div>
         </div>
     </section>
