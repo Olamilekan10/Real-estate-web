@@ -18,7 +18,7 @@ const Footer = () => {
 
             {/* right side */}
             <div className="flexColStart f-right">
-                <span>Information</span>
+                <span className="primaryText">Information</span>
                 <span>!45 New York, FL 4571, USA</span>
             </div>
         </div>
