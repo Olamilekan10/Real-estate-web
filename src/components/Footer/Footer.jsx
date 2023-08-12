@@ -8,7 +8,7 @@ const Footer = () => {
 
             {/* left side */}
             <div className="flexColStart f-left">
-                <img src="./logo2.png" alt=""  />
+                <img src="./logo2.png" alt="" width={120} />
             </div>
         </div>
     </section>
