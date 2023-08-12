@@ -22,10 +22,10 @@ const Footer = () => {
                 <span className="secondaryText">145 New York, FL 4571, USA</span>
 
                 <div className="flexCenter-f-menu">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
+                    <span>Property</span>
+                    <span>Services</span>
+                    <span>Product</span>
+                    <span>About Us</span>
                 </div>
             </div>
         </div>
