@@ -23,5 +23,9 @@
     }
     .h-menu{
         color: var(--black);
+        position: absolute;
+        top: 3rem;
+        right: 4rem;
+        background: #fff;
     }
 }
