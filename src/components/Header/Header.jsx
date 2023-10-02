@@ -3,6 +3,7 @@ import './Header.css';
 import { BiMenuAltRight } from 'react-icons/bi';
 
 const Header = () => {
+  
   return (
     <section className="h-wrapper">
       <div className="flexCenter paddings innerWidth h-container">
