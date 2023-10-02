@@ -18,10 +18,12 @@ const Header = () => {
           <a href="">Contact</a>
           </button>
         </div>
+
+        <div className="menu-icon">
+          <BiMenuAltRight size={30} />
+        </div>
       </div>
-      <div className="menu-icon">
-        <BiMenuAltRight size={30} />
-      </div>
+      
     </section>
   )
 }
