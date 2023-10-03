@@ -1,9 +1,10 @@
 import React from 'react';
 import './Header.css';
 import { BiMenuAltRight } from 'react-icons/bi';
+import { useState } from 'react';
 
 const Header = () => {
-  
+  const [menuOpened, setMenuOpened] = useState(false)
   return (
     <section className="h-wrapper">
       <div className="flexCenter paddings innerWidth h-container">
