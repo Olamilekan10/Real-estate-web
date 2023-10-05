@@ -1,7 +1,6 @@
-import React from 'react';
+import React, { useState }  from 'react';
 import './Header.css';
 import { BiMenuAltRight } from 'react-icons/bi';
-import { useState } from 'react';
 
 const Header = () => {
   const [menuOpened, setMenuOpened] = useState(false)
@@ -19,14 +18,12 @@ const Header = () => {
           <button className="button">
           <a href="">Contact</a>
           </button>
-          <div>
-            
-          </div>
         </div>
 
         <div className="menu-icon">
-          <BiMenuAltRight size={30} />
+          <BiMenuAltRight size={30} onClick={()=> {}} />
         </div>
+
       </div>
       
     </section>
