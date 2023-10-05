@@ -75,4 +75,8 @@
     .hero-container {
         margin-top: 2rem;
     }
+    .hero-title>h1 {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
 }
