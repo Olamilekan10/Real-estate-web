@@ -18,7 +18,11 @@ const Header = () => {
 
         <img src="./logo.png" alt="logo" width={100} />
 
-        <OutsideClickHandler>
+        <OutsideClickHandler
+          onOutsideClick={()=> {
+            setMenuOpened(false)
+          }}
+        >
           <div className="flexCenter h-menu"
             style={getMenuStyles(menuOpened)}
             >
@@ -32,7 +36,11 @@ const Header = () => {
           </div>
         </OutsideClickHandler>
 
-        <div className="menu-icon"  onClick={()=> setMenuOpened((prev)=>!prev)} >
+        <div 
+          className="menu-icon"  
+          onClick={()=> setMenuOpened((prev)=>!prev)}
+        >
+
           <BiMenuAltRight size={30} />
         </div>
 
