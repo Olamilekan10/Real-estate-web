@@ -11,7 +11,7 @@ const Header = () => {
         <img src="./logo.png" alt="logo" width={100} />
 
         <div className="flexCenter h-menu"
-          style={}
+          style={getMenuStyles(menuOpened)}
         >
           <a href="">Residencies</a>
           <a href="">Our Value</a>
