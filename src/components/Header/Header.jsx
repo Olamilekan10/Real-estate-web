@@ -10,7 +10,9 @@ const Header = () => {
 
         <img src="./logo.png" alt="logo" width={100} />
 
-        <div className="flexCenter h-menu">
+        <div className="flexCenter h-menu"
+          style={}
+        >
           <a href="">Residencies</a>
           <a href="">Our Value</a>
           <a href="">Contact Us</a>
@@ -20,8 +22,8 @@ const Header = () => {
           </button>
         </div>
 
-        <div className="menu-icon">
-          <BiMenuAltRight size={30} onClick={()=> {}} />
+        <div className="menu-icon"  onClick={()=> setMenuOpened((prev)=>!prev)} >
+          <BiMenuAltRight size={30} />
         </div>
 
       </div>
