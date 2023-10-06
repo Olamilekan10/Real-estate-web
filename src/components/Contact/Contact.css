@@ -65,4 +65,7 @@
         flex-direction: column;
         width: 100%;
     }
+    .mode {
+        width: 100%;
+    }
 }
