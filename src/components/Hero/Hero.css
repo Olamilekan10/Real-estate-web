@@ -2,6 +2,7 @@
     color: #fff;
     position: relative;
     padding-bottom: 2rem;
+    z-index: 1;
 }
 .hero-container {
     justify-content: space-around;
@@ -84,7 +85,19 @@
         height: 25rem;
     }
     .stats {
+        width: 95%;
         justify-content: center;
-        gap: 1.5rem;
+        gap: 2rem;
     }
-}
+    .hero-rightt{
+        width: 100%;
+    }
+    .stat>:nth-child(1)
+    {
+        font-size: 1.5rem;
+    }
+    .stat>:nth-child(2)
+    {
+        font-size: 0.8rem;
+    }
+} 
