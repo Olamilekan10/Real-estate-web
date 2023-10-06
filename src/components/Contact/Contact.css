@@ -58,4 +58,11 @@
     .c-right {
         justify-content: center;
     }
+    .contactModes {
+        width: 100%;
+    }
+    .row {
+        flex-direction: column;
+        width: 100%;
+    }
 }
