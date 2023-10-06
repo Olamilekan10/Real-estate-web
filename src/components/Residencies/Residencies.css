@@ -68,5 +68,7 @@
     .r-head {
         align-items: center;
     }
-    
+    .r-buttons {
+        position: inherit;
+    }
 }
