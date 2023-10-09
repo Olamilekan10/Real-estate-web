@@ -74,6 +74,7 @@ const Hero = () => {
             <div className="flexCenter hero-right">
                 <motion.div 
                     initial={{x: "7rem", opacity: 0}}
+                    animate={{x: "7rem", opacity: 0}}
                     className="image-container">
                     <img src="./hero-image.png" alt="" />
                 </motion.div>
