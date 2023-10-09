@@ -77,7 +77,7 @@ const Hero = () => {
                     animate={{x: 0, opacity: 1}}
                     transition={{
                         duration: 2,
-                        type: "spring"
+                        // type: "spring"
                     }}
                     className="image-container">
                     <img src="./hero-image.png" alt="" />
